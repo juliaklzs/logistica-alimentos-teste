@@ -30,7 +30,7 @@ function Register() {
                 <Input placeholder="Nome | Razão social"></Input>
                 <Input placeholder="CPF | CNPJ"></Input>
 
-                <BtnSend><a href="/" style={{textDecoration: "none", color: "white"}}>Cadastrar</a></BtnSend>
+                <BtnSend><a href="/home" style={{textDecoration: "none", color: "white"}}>Cadastrar</a></BtnSend>
 
             </section>
             
