@@ -6,7 +6,7 @@ import Login from "./Routes/Login/login"
 import Pass from "./Routes/ForgorPass/pass"
 import Register from "./Routes/Register/register"
 import Contact from "./Routes/Contact/contact"
-
+import ProductEnterp from "./Routes/ProductEnterprise/productEnterp";
 
 const AppRoutes = () => {
 
@@ -19,6 +19,7 @@ const AppRoutes = () => {
                 <Route path="/forgotpassword" element={<Pass/>}></Route>
                 <Route path="/register" element={<Register/>}></Route>
                 <Route path="/contact" element={<Contact/>}></Route>
+                <Route path="/productenterprise" element={<ProductEnterp/>}></Route>
             </Routes>
         </Router>
 

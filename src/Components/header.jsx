@@ -13,7 +13,7 @@ function Header() {
 
         <GroupBtn>
             <Btn><a href="/home" style={{textDecoration: "none", color: "white"}}>Sobre</a></Btn>
-            <Btn>Produtos</Btn>
+            <Btn><a href="/productenterprise" style={{textDecoration: "none", color: "white"}}>Produtos</a></Btn>
             <Btn><a href="/contact" style={{textDecoration: "none", color: "white"}}>Fale conosco</a></Btn>
             <a href="/" style={{textDecoration: "none", color: "white"}}><MdOutlineExitToApp /></a>
         </GroupBtn>

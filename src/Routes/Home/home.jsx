@@ -17,12 +17,12 @@ function Home() {
                         <p>Como ONG, você encontra aliementos bons para se tranformar em marmitas para quem precisa do nosso apoio.</p>
                     </TextsHome1>
                     <div>
-                        <img src={Img1} alt="" style={{height: "auto", width: "52vw"}}/>
+                        <img src={Img1} alt="" style={{height: "auto", width: "50vw"}}/>
                     </div>
                 </Section1>
                 <Section2>
                     <div>
-                        <img src={Img2} alt="" style={{height: "auto", width: "40vw"}}/>
+                        <img src={Img2} alt="" style={{height: "auto", width: "35vw"}}/>
                     </div>
                     <TextsHome2>
                         <Titulo>Sobre a Tech Food!</Titulo>
