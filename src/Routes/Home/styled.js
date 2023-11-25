@@ -32,6 +32,7 @@ export const Titulo = styled.h1`
 
 export const Section2 = styled.section`
     width: auto;
+    margin: 5vh 2vh;
     display: flex;
     flex-direction: row;
     justify-content: space-between;

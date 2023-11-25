@@ -27,7 +27,7 @@ export const Btn = styled.button`
     border-radius: 13px;
     border-color: #FFF;
     border-width: 1.5px;
-    padding: 10px 3vw;
+    padding: 10px 1vw;
     color: #FFF;
     background-color: transparent;
 `

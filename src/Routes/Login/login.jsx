@@ -28,7 +28,7 @@ import { Form, Input } from "./styled";
             senha.style.border = "2px solid initial"; 
           }
         } else {
-            window.location.href = '/';
+            window.location.href = '/home';
         }
     }
 function Login() {
