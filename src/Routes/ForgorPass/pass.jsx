@@ -8,7 +8,7 @@ function Pass() {
     function enviarSenha(event) {
         event.preventDefault()
         alert("Link para redefinição de senha enviad para seu e-mail")
-        window.location.href = "/home"
+        window.location.href = "/"
     }
     return(
         
