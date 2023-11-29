@@ -11,6 +11,7 @@ function ProductEnterp () {
     return(
         <section>
             <Header></Header>
+            
 
                 <section style={{display: "flex", flexDirection: "column", alignItems: "center", marginTop: "10vh", marginLeft: "90rem"}}>
                     <BtnAction type="submit">Cadastrar alimentos +</BtnAction>
