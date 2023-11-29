@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.card{
+    margin-left: 8rem;
+    justify-content: space-between;
+}
+.card_header{
+ background-color: #FF0000;
+ width: 230px;
+ height: 60px;
+ border-radius: 10px;
+ box-shadow: 5px 5px 10px #22222270;
+ margin-bottom: -2px;
+ position: absolute;
+}
+
+.card_header h3{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.card_body{
+    width: 180px;
+    height: 250px;
+    background-color:#F5F5F5;
+    border-radius: 10px;
+    padding: 3px;
+    box-shadow: 5px 5px 10px #22222270;
+    margin-left: 12%;   
+}
+
+.card_body img{
+    width: 40%;
+    margin-top: 6rem;
+    margin-left: 3rem;
+}
+
+.card_body h4{
+    margin-top: 1.5rem;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    background-color: #EDEDED;
+    border-radius: 10px;
+    box-shadow: 5px 5px 6px #22222270;
+    padding: 3px;
+    width: 8rem;
+    margin-left: 12%;
+}

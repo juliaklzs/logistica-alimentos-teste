@@ -6,7 +6,8 @@ import Login from "./Routes/Login/login"
 import Pass from "./Routes/ForgorPass/pass"
 import Register from "./Routes/Register/register"
 import Contact from "./Routes/Contact/contact"
-import ProductEnterp from "./Routes/ProductEnterprise/productEnterp";
+import ProductEnterp from "./Routes/ProductEnterprise/productEnterp"
+import Cart from "./Routes/Cart/cart"
 import RegisterFood from "./Routes/RegisterFood/registerFood"
 import ProductInst from "./Routes/ProductInstitution/productInst";
 
@@ -22,6 +23,7 @@ const AppRoutes = () => {
                 <Route path="/register" element={<Register/>}></Route>
                 <Route path="/contact" element={<Contact/>}></Route>
                 <Route path="/productenterprise" element={<ProductEnterp/>}></Route>
+                <Route path="/cart" element={<Cart/>}></Route>
                 <Route path="/registerFood" element={<RegisterFood/>}></Route>
                 <Route path="/productInst" element={<ProductInst/>}></Route>
             </Routes>
