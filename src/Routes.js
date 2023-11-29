@@ -7,6 +7,8 @@ import Pass from "./Routes/ForgorPass/pass"
 import Register from "./Routes/Register/register"
 import Contact from "./Routes/Contact/contact"
 import ProductEnterp from "./Routes/ProductEnterprise/productEnterp";
+import RegisterFood from "./Routes/RegisterFood/registerFood"
+import ProductInst from "./Routes/ProductInstitution/productInst";
 
 const AppRoutes = () => {
 
@@ -20,6 +22,8 @@ const AppRoutes = () => {
                 <Route path="/register" element={<Register/>}></Route>
                 <Route path="/contact" element={<Contact/>}></Route>
                 <Route path="/productenterprise" element={<ProductEnterp/>}></Route>
+                <Route path="/registerFood" element={<RegisterFood/>}></Route>
+                <Route path="/productInst" element={<ProductInst/>}></Route>
             </Routes>
         </Router>
 

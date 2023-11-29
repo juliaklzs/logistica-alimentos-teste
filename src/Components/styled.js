@@ -41,5 +41,13 @@ export const BtnSend = styled.button`
     margin: 8vh 0vh 3vh 0vh;
 
 `
-
-
+export const RoundBtn = styled.button`
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #FF0000;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    justify-content: space-between;
+`
