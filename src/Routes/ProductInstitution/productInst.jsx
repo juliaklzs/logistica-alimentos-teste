@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import Header from "../../Components/header";
 import Footer from "../../Components/footer";
 import { BtnAction } from "../../Components/styled";
@@ -6,12 +6,14 @@ import Card from "../../Components/Cards/index"
 import Card2 from "../../Components/Cards/Card2";
 import Card3 from "../../Components/Cards/Card3";
 import Card4 from "../../Components/Cards/Card4";
+import { RoundBtn } from "../../Components/styled";
+import { BtnSend } from "../../Components/styled";
 
 function ProductEnterp () {
     return(
         <section>
             <Header></Header>
-            
+
 
                 <section style={{display: "flex", flexDirection: "column", alignItems: "center", marginTop: "10vh", marginLeft: "90rem"}}>
                     <BtnAction type="submit">Cadastrar alimentos +</BtnAction>
@@ -31,4 +33,4 @@ function ProductEnterp () {
 
 }
 
-export default ProductEnterp;
+export default ProductEnterp; */
