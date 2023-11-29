@@ -49,5 +49,5 @@ export const RoundBtn = styled.button`
     border: none;
     position: relative;
     overflow: hidden;
-
+    justify-content: space-between;
 `
