@@ -1,0 +1,18 @@
+.border{
+    border: 2px solid #000;
+    border-radius: 30px;
+    padding: 20px;
+    width: 50rem;
+    height: 20rem;
+}
+
+.cartbtn{
+    margin-bottom: 23rem;
+    margin-left: 24rem;
+    
+}
+
+.btn{
+    margin-top: 19.8rem;
+    margin-left: 22rem;
+}
