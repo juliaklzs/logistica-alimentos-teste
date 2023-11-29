@@ -61,3 +61,13 @@ export const CartBtn = styled.button`
     box-shadow: 5px 5px 10px #22222270;
 
 `
+export const RoundBtn = styled.button`
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #FF0000;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    justify-content: space-between;
+`
